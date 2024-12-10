@@ -1,0 +1,116 @@
+
+header{
+    background: rgba(241, 241, 241, 0.327);
+    width: 90%;
+    height: 90%;
+    
+}
+a:visited{
+    color: white;
+}
+#formulariocss{
+    align-items: center;
+    background: rgba(227, 228, 230, 0.327);
+    width: 45%;
+    height: 100%;
+    position: relative;
+    left: 25%;
+  
+}
+#superior{
+    background: rgb(0, 0, 0);
+    width: 100%;
+    height: 100%;
+    opacity: 0.8;
+}
+#Formulariomain{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    input,select{
+        width: 30%;
+        height: 30px;
+        border-radius: 15px;
+        box-shadow: 10px 10px 20px white;
+    }
+}
+#multioption{
+display: inline;
+}
+#bodyContacto{
+   background-color: black;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat; 
+}
+.texformulario{
+    color: aliceblue;
+}
+ul{
+    color: rgb(255, 255, 255) ;
+    position: absolute;
+    top: 40px;
+    left: 70%;
+    font-size: 30px
+    
+}
+
+#titulop{
+ 
+    color:rgb(255, 255, 255);
+    position: absolute;
+    font-size: 90px;
+    left: 15%;
+    top: 15px;
+    padding-left: 50px;
+    display: inline-block;
+}
+
+
+.permanent-marker-regular {
+    font-family: "Permanent Marker", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+#imagenp{
+    width: 150px;
+    border-radius: 150%;
+    margin-left: 50px;
+    opacity: 1;
+   
+}
+
+#textop{
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    padding: 20px;
+}
+#imagen2{
+    width: 400px;
+    height: 500px;
+    border-radius:200%;
+    box-shadow: 15px 15px 9px black;
+    float: left;
+}
+#bodyindex{
+    background-image:url(../IMG/fondoindex.jpg) ;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat; 
+    opacity: 0.8;
+    
+}
+#bodyHistoria{
+    background-color: rgb(78, 122, 172);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat; 
+}
+
+
